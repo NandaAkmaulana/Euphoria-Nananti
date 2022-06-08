@@ -218,15 +218,15 @@ p {
   z-index: -1;
 }
 #hero .hero {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
-  padding: 0 50px;
+  padding: 40px;
   justify-content: flex-start;
 }
 #hero h1 {
   display: block;
   width: fit-content;
-  font-size: 13rem;
+  font-size: 8rem;
   position: relative;
   color: transparent;
   animation: text_reveal 0.5s ease forwards;
